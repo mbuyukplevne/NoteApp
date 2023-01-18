@@ -1,1 +1,2 @@
 # NoteApp
+### Hi there, :blush:
